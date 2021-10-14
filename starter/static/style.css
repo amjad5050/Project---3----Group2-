@@ -1,0 +1,46 @@
+
+   */
+   .stylish span {position:relative;}
+   .stylish select {position:absolute;left:0px;display:none}
+   
+   /* beauty */
+   .stylish input {
+       width:200px;
+       padding:5px;
+   }
+   body {
+    padding-left: 5em;
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    color: #000000;
+    background-color: #90EE90
+  }
+  ul.navbar {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em
+  }
+  h1 {
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    font-size:30px ;
+    color: #008080;
+  }
+  h2 {
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    font-size: 20px;
+    color: #00008B;
+  }
+  p {
+  font-family: Tahoma, Verdana, Segoe, sans-serif;
+  font-size:15px ;
+  color: #00008B;
+  }
+  a:link {
+    color: rgb(0, 255, 149)
+  }
+  a:visited {
+    color: purple
+  }
